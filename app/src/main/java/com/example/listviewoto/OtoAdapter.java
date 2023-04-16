@@ -42,6 +42,8 @@ public class OtoAdapter extends BaseAdapter {
     private class ViewHolder {
         ImageView imgoto;
         TextView txtname, txttinhnang;
+        int a =0;
+        String b = "Hell";
 
     }
 
